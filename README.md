@@ -1,16 +1,7 @@
 # Retirement-calculation-using-DOB
 datepicker-onselect-functionCall-retirement calculation using jqueryUI
 
-<html>
-
-    <head>
-        <title>jQuery UI Datepicker - Animation</title>
-        <link rel="stylesheet" href="https://code.jquery.com/ui/1.11.1/themes/ui-darkness/jquery-ui.css">
-        <script src="https://code.jquery.com/jquery-2.1.1.js"></script>
-        <script src="https://code.jquery.com/ui/1.11.1/jquery-ui.js"></script>
-       
-    </head>
-    
+ <head>
 <script>
 
 $( function doDates() {
@@ -32,3 +23,11 @@ $( function doDates() {
     });
         } );
     </script>
+
+        <title>jQuery UI Datepicker - Animation</title>
+        <link rel="stylesheet" href="https://code.jquery.com/ui/1.11.1/themes/ui-darkness/jquery-ui.css">
+        <script src="https://code.jquery.com/jquery-2.1.1.js"></script>
+        <script src="https://code.jquery.com/ui/1.11.1/jquery-ui.js"></script>
+       
+    </head>
+    
