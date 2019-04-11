@@ -1,8 +1,6 @@
 # Retirement-calculation-using-DOB
 datepicker-onselect-functionCall-retirement calculation using jqueryUI
 
-
-
 <html>
 
     <head>
@@ -34,11 +32,3 @@ $( function doDates() {
     });
         } );
     </script>
-
-<body>
-<form action="/jsfiles/dem/dems" method="post">
-enter your DOB: <input type="text" id="dob" autocomplete="off" value="dd-mm-yyyy" onclick=" doDates()"> <br /><br />
-Your retirement date is: <input type="text" id="dor"> 
-</form>
-</body>
-</html>
